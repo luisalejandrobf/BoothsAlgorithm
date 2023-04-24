@@ -1,4 +1,4 @@
-# AlgoritmoDeBooth
+# BoothsAlgorithm / AlgoritmoDeBooth
 Luis Alejandro Bravo Ferreira - Pontificia Universidad Javeriana
 
 ENG: Code for the PDUA processor. Booth's algorithm, for signed binary multiplication.

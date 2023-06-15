@@ -25,8 +25,6 @@ To run the algorithm on the PDUA processor, follow these steps:
 2. Execute the instructions on the processor.
 3. Analyze the results obtained from the signed binary multiplication.
 
-Include a Spanish version of this README [here](README-es.md).
-
 ---
 
 # Algoritmo de Booth
@@ -55,5 +53,3 @@ Para ejecutar el algoritmo en el procesador PDUA, sigue estos pasos:
 1. Carga las instrucciones binarias (`booth_algorithm_binary.txt`) en el procesador PDUA.
 2. Ejecuta las instrucciones en el procesador.
 3. Analiza los resultados obtenidos de la multiplicación binaria con signo.
-
-Incluye una versión en inglés de este README [aquí](README.md).

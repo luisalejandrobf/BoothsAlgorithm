@@ -1,5 +1,7 @@
 # Booth's Algorithm
 
+[English](#booths-algorithm) | [Español](#algoritmo-de-booth)
+
 ## About the repository
 
 This repository contains an implementation of Booth's algorithm for signed binary multiplication.
@@ -30,6 +32,8 @@ To run the algorithm on the PDUA processor, follow these steps:
 ---
 
 # Algoritmo de Booth
+
+[English](#booths-algorithm) | [Español](#algoritmo-de-booth)
 
 ## Acerca del repositorio
 

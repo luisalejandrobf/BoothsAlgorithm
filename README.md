@@ -52,4 +52,8 @@ Para ejecutar el algoritmo en el procesador PDUA, sigue estos pasos:
 
 1. Carga las instrucciones binarias (`booth_algorithm_binary.txt`) en el procesador PDUA.
 2. Ejecuta las instrucciones en el procesador.
+<<<<<<< HEAD
 3. Analiza los resultados obtenidos de la multiplicación binaria con signo.
+=======
+3. Analiza los resultados obtenidos de la multiplicación binaria con signo.
+>>>>>>> 8c280c0ded12541db77b5898ab15a724f4f2ba8c

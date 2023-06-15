@@ -15,7 +15,6 @@ The repository includes the following files:
 - `AlgorithmTests`: Folder that contains tests for individual functionalities of the code.
 - `BoothsAlgorithm.asm`: Assembly code implementing Booth's algorithm.
 - `BinaryBoothsAlgorithm`: Binary instructions resulting from the translation of the algorithm.
-- `README.md`: This README file.
 
 Feel free to explore the code and instructions to understand the implementation of Booth's algorithm for signed binary multiplication.
 
@@ -48,7 +47,6 @@ El repositorio incluye los siguientes archivos:
 - `AlgorithmTests`: Carpeta que contiene pruebas para las funcionalidades individuales del código.
 - `BoothsAlgorithm.asm`: Código en lenguaje ensamblador que implementa el algoritmo de Booth.
 - `BinaryBoothsAlgorithm`: Instrucciones binarias resultantes de la traducción del algoritmo.
-- `README-es.md`: Este archivo README en español.
 
 Siéntete libre de explorar el código e instrucciones para comprender la implementación del algoritmo de Booth para la multiplicación binaria con signo.
 

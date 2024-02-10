@@ -1,6 +1,6 @@
 # Booth's Algorithm
 
-![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=luisalejandrobf&repo=BoothsAlgorithm&label=Welcome%20to%20the%20repository!%20You're%20visitor%20number&style=flat-square&color=%233864CF&contentType=svg)
+![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=luisalejandrobf.BoothsAlgorithm&left_text=Views)
 
 [English](#booths-algorithm) | [Español](#algoritmo-de-booth)
 

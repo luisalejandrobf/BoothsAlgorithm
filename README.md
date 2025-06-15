@@ -11,7 +11,7 @@ This repository contains an implementation of **Booth's algorithm** for **signed
 The algorithm is written in **assembly language** for the PDUA, and the corresponding **binary instructions** are provided to run directly on the processor.
 
 🔗 **PDUA Processor Simulation**: You can interact with the processor architecture through the following CircuitVerse project:  
-[https://circuitverse.org/users/91271/projects/pdua-arquitectura_i-sistemas-9f0128d2-6821-40e8-a549-ca3114e69272](https://circuitverse.org/users/91271/projects/pdua-arquitectura_i-sistemas-9f0128d2-6821-40e8-a549-ca3114e69272)
+[PDUA Processor - Circuitverse](https://circuitverse.org/users/91271/projects/pdua-arquitectura_i-sistemas-9f0128d2-6821-40e8-a549-ca3114e69272)
 
 ---
 
@@ -46,7 +46,7 @@ Este repositorio contiene una implementación del **algoritmo de Booth** para la
 El algoritmo está escrito en **lenguaje ensamblador** para el PDUA, y se incluye su correspondiente versión en **instrucciones binarias** para su ejecución directa.
 
 🔗 **Simulación del procesador PDUA**: Puedes interactuar con la arquitectura del procesador a través del siguiente proyecto en CircuitVerse:  
-[https://circuitverse.org/users/91271/projects/pdua-arquitectura_i-sistemas-9f0128d2-6821-40e8-a549-ca3114e69272](https://circuitverse.org/users/91271/projects/pdua-arquitectura_i-sistemas-9f0128d2-6821-40e8-a549-ca3114e69272)
+[Procesador PDUA - Circuitverse](https://circuitverse.org/users/91271/projects/pdua-arquitectura_i-sistemas-9f0128d2-6821-40e8-a549-ca3114e69272)
 
 ---
 
